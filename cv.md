@@ -2,6 +2,7 @@
 ## Junior Frontend Developer
 ===
 ### Contacts
+
 Yerevan, Armenia
 vas.permyakov@gmail.com
 +374 43 558512
