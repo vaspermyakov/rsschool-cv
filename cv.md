@@ -19,8 +19,7 @@ I love to solve different problems wich lead me to great result.
 * UML 2.5
 * SQL
 ### Code example
-```
-gta_v = df[df['Name'] == 'Grand Theft Auto V'].groupby('Platform')['Global_Sales'].sum().reset_index()
+``` gta_v = df[df['Name'] == 'Grand Theft Auto V'].groupby('Platform')['Global_Sales'].sum().reset_index()
 
 plt.bar(gta_v['Platform'], gta_v['Global_Sales'])
 
