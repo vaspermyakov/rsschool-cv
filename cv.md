@@ -1,16 +1,16 @@
 # Vasily Permyakov
 ## Junior Frontend Developer
 ******
-## Contacts
+### Contacts
 Yerevan, Armenia  
 vas.permyakov@gmail.com  
 +374 43 558512  
 [LinkedIn](https://www.linkedin.com/in/vasily-permyakov/)  
 [Facebook](https://www.facebook.com/vaspermyakov/)  
-## Portfolio
+### Portfolio
 I'm a project manager with 3+ years expirience in web and mobile development projects. Now I'm interested in learning JS and fronted development to improve my tech skills and may be change the profession.
 I love to solve different problems wich lead me to great result.
-## Skills
+### Skills
 * SCRUM, Kanban, Agile
 * Python (pandas, matplotlib, numpy, plotly, scipy)
 * HTML 5
@@ -18,7 +18,7 @@ I love to solve different problems wich lead me to great result.
 * Tableau, PowerBI
 * UML 2.5
 * SQL
-## Code example
+### Code example
 ```
 <div class="icon-text">
      <span class="icon">
@@ -33,3 +33,16 @@ I love to solve different problems wich lead me to great result.
     <span><a class="social-media" href="https://www.linkedin.com/in/vasily-permyakov/">LinkedIn</a></span>
  </div>
 ```
+### Work Expirience
+Frontend developer: *nothing yet*  
+Project manger:
+* **Future Group** (2020 - present) - web and mobile development
+* **Zalazer** (2020 - 2020) - e-commerce
+* **Garant** (2019 - 2020) - LegalTech
+### Courses
+* **RS School** - JavaScript Frontend
+* **W3schools** - HTML & CSS
+* **SkillBox** - Data Analysis
+### Languages
+* **Russian** - native
+* **English** - B2-C1
