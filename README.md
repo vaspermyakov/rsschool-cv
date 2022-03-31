@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS School
+https://vaspermyakov.github.io/rsschool-cv/cv
